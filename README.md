@@ -37,9 +37,9 @@ This MVP includes *3 core screens*:
 
 ## Screenshot
 
-![Screenshot](./assets/screenshot_1.png)
-![Screenshot](./assets/screenshot_2.png)
-![Screenshot](./assets/screenshot_3.png)
+![Screenshot](./assets/Screenshot_1.png)
+![Screenshot](./assets/Screenshot_2.png)
+![Screenshot](./assets/Screenshot_3.png)
 
 Additional Notes (Optional)
 
