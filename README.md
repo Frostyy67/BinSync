@@ -46,4 +46,5 @@ Additional Notes (Optional)
 Future plans: 
 - QR Scanning
 - Settings screen
-- UI modes
+- UI modes (dark and other themes)
+- Online points redeeming 
